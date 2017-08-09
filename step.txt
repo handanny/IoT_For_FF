@@ -1,0 +1,6 @@
+1. git init
+2. git remote add origin "url(https)"
+3. 코드작성(sample.txt)
+4. git add sample.txt
+5. git commit -m"내용"
+6. git push origin mater
